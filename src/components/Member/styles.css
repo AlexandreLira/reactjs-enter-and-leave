@@ -1,0 +1,14 @@
+.Member-button-container {
+    display: flex;
+    justify-content: center;
+}
+.Member-button {
+    width: 100px;
+    height: 50px;
+    margin: 10px;
+    font-weight: bolder;
+    color: #282c34;
+    background-color: aqua;
+    border-radius: 10px;
+    border: none;
+}
